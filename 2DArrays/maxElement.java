@@ -5,7 +5,7 @@ public class maxElement
     static Scanner obj=new Scanner(System.in);
     public static void main(String[] args)
      {
-        
+        System.out.println("enter");
         int n = obj.nextInt();     
 		int [] arr1=new int[n];
 		TakeInput(arr1);
