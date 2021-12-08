@@ -18,7 +18,8 @@ public class digitFrequency
 		while(n!=0)
 		{
 			int rem=n%10;
-			if(rem==d) count++;
+			if(rem==d)
+                 count++;
 			n=n/10;
 		}
         
